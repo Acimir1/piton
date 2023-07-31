@@ -2,3 +2,4 @@
 učenje debila pitonu
 stvarno je krele
 niiije
+je
