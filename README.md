@@ -1,0 +1,2 @@
+# piton
+učenje debila pitonu
