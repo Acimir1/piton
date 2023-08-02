@@ -11,6 +11,6 @@ def func_selection(Vararr):
    Vararr[Varindex] = Vartemp
  return Vararr
 
-Vararr = [34,2,45,57,34,56,20,102]
+Vararr = [34,2,45,57,34,56,20,99]
 print("Sorted array: ")
 print(func_selection(Vararr))
