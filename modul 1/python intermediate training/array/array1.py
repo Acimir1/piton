@@ -8,6 +8,6 @@ def func_bubble(Vararr):
     Vararr[i+1] = Vartemp
  return Vararr
 
-Vararr=[2,4,5,7,8,19,59,12,23,455]
+Vararr=[2,4,5,7,8,19,59,12,24,455]
 print("Sorted Array: ")
 print(func_bubble(Vararr))
