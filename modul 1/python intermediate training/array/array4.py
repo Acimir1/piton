@@ -6,7 +6,7 @@ def func_linearsrc(Vararr, Varnum):
    break
  return(Varpos)
 
-Vararr = [10,2,345,56,789,67,456,45,34,56,78,8967,56]
+Vararr = [10,2,345,56,789,67,46,45,34,56,78,8967,56]
 Varnum = 78
 Varf = func_linearsrc(Vararr, Varnum)
 if Varf != -1:
