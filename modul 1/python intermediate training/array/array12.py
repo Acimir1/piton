@@ -1,4 +1,4 @@
-Var_str = "This is Python Code to Sort the Words as per Alphabetical Order"
+Var_str = "This is Python to Sort the Words as per Alphabetical Order"
 
 Var_words = [word.lower() for word in Var_str.split()]
 
