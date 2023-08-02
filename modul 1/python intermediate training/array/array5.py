@@ -17,7 +17,7 @@ def func_binarysrc(Vararr, Varnum):
    Varm = (Vars + Vare) // 2
  return(Varf, Varp)
 
-Vararr=[0,12,14,15,16,17,18,20,30,50]
+Vararr=[0,12,14,15,16,17,18,20,40,50]
 Varnum = 16
 Varf = func_binarysrc(Vararr, Varnum)
 if Varf[0]:
