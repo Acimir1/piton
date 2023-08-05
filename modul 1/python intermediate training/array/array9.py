@@ -1,4 +1,4 @@
-Varx = [[13,6],[5,6],[7,8]]
+Varx = [[3,6],[5,6],[7,8]]
 Varresult = [[0,0,0],[0,0,0]]
 for j in range(len(Varx)):
  for k in range(len(Varx[0])):

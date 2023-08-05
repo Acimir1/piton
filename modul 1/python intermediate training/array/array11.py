@@ -1,6 +1,6 @@
 Varpunch = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
-VarStr = "Hello!!! Welcome to Python ---- This is Next Course!!!!,."
+VarStr = "Hello!! Welcome to Python ---- This is Next Course!!!!,."
 
 Varno_punch = ""
 for j in VarStr:

@@ -1,4 +1,4 @@
-VarS1 = {1,2,3,7,8};
+VarS1 = {1,2,3,7,9};
 VarS2 = {4,5,6,8,0};
 
 print("Union of VarS1 and VarS2 is",VarS1 | VarS2)

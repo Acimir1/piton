@@ -46,7 +46,7 @@ push('i', 12, Varstack)
 push('n', 12, Varstack)
 push('g', 12, Varstack)
 
-print('Original Stack is %s' %Varstring)
+print('Original Stack  %s' %Varstring)
 print("Performing Stack")
 print('Reversed String = ', end='')
 for j in Varstack:

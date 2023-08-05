@@ -9,6 +9,6 @@ def func_insertion(Vararr):
   Vararr[i+1] = Varkey
  return Vararr
 
-Vararr = [45,2,34,12,67,89,304,455,3]
+Vararr = [45,2,34,12,67,89,304,45,3]
 print("Sorted array: ")
 print(func_insertion(Vararr))

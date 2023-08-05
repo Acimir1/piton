@@ -1,5 +1,5 @@
 Vardict_1 = {1: 'a', 2: 'l'}
-Vardict_2 = {2: 'b', 3: 'p'}
+Vardict_2 = {2: 'b', 3: 'i'}
 
 Vardict_3 = Vardict_2.copy()
 Vardict_3.update(Vardict_1)
