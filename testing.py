@@ -39,7 +39,7 @@ if x == "Y" or x == "y":
     for i in range(3):
         z = int(input("Unesite broj od 1 do 100: "))
         if z == y:
-            print("ČESTITAMO!!!")
+            print("ČESTITAMO!!")
             break
         elif z != y:
             print("Netočno, pokušajte ponovno")
